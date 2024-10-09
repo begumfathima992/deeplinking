@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185914268640",
+    "project_id": "astute-strategy-437308-r0",
+    "storage_bucket": "astute-strategy-437308-r0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185914268640:android:01851ce93171561160e985",
+        "android_client_info": {
+          "package_name": "com.notion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185914268640-ofpfrehjjo8h6169icghebv53lg5im64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4Hz61KmWNw-zPotcNQY9sJM7fowEnuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185914268640-ofpfrehjjo8h6169icghebv53lg5im64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
